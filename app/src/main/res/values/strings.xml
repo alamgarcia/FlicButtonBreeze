@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">Flic</string>
     <string name="action_settings">Settings</string>
+    <string name="family_lbl_text">family</string>
+    <string name="type_lbl_txt">type</string>
+    <string name="version_lbl_txt">version</string>
+    <string name="email_lbl_txt">email</string>
+    <string name="param1_lbl_txt">Param1</string>
+    <string name="param2_lbl_txt">Param2</string>
+    <string name="param3_lbl_txt">Param3</string>
+    <string name="param4_lbl_txt">Param4</string>
+    <string name="param5_lbl_txt">Param5</string>
+    <string name="param6_lbl_txt">Param6</string>
+    <string name="param7_lbl_txt">Param7</string>
+    <string name="param8_lbl_txt">Param8</string>
+    <string name="param9_lbl_txt">Param9</string>
+    <string name="param10_lbl_txt">Param10</string>
+    <string name="save_btn_txt">Guardar</string>
 </resources>
