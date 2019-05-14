@@ -25,7 +25,7 @@
                 app:layout_constraintBottom_toTopOf="@+id/guideline16" app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent" android:id="@+id/linearLayout2">
             <TextView
-                    android:text="TextView"
+                    android:text="EndPoint"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/endpoint_label_txt"/>
             <EditText
@@ -187,7 +187,7 @@
                     android:id="@+id/param10_txt"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button"/>
+                    android:layout_height="wrap_content" android:id="@+id/save_btn"/>
 
 
         </LinearLayout>
