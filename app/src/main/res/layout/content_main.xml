@@ -75,7 +75,7 @@
                     android:layout_height="wrap_content" android:id="@+id/textView" android:textSize="24sp"
                     android:gravity="center|center_vertical"/>
             <TextView
-                    android:text="@string/email_lbl_txt"
+                    android:text="nombreAdmin"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/email_label"/>
             <EditText
@@ -85,7 +85,7 @@
                     android:ems="10"
                     android:id="@+id/email_txt"/>
             <TextView
-                    android:text="@string/param1_lbl_txt"
+                    android:text="numerosParticipantes"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/param1_label"/>
             <EditText
@@ -95,7 +95,7 @@
                     android:ems="10"
                     android:id="@+id/param1_txt"/>
             <TextView
-                    android:text="@string/param2_lbl_txt"
+                    android:text="bridgePhone"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/param2_label"/>
             <EditText
@@ -105,7 +105,7 @@
                     android:ems="10"
                     android:id="@+id/param2_txt"/>
             <TextView
-                    android:text="@string/param3_lbl_txt"
+                    android:text="bridgeId"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/param3_label"/>
             <EditText
@@ -114,77 +114,6 @@
                     android:inputType="textPersonName"
                     android:ems="10"
                     android:id="@+id/param3_txt"/>
-            <TextView
-                    android:text="@string/param4_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param4_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:ems="10"
-                    android:id="@+id/param4_txt"/>
-            <TextView
-                    android:text="@string/param5_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param5_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:ems="10"
-                    android:id="@+id/param5_txt"/>
-            <TextView
-                    android:text="@string/param6_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param6_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:ems="10"
-                    android:id="@+id/param6_txt"/>
-            <TextView
-                    android:text="@string/param7_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param7_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:ems="10"
-                    android:id="@+id/param7_txt"/>
-            <TextView
-                    android:text="@string/param8_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param8_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:ems="10"
-                    android:id="@+id/param8_txt"/>
-            <TextView
-                    android:text="@string/param9_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param9_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:ems="10"
-                    android:id="@+id/param9_txt"/>
-            <TextView
-                    android:text="@string/param10_lbl_txt"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/param10_label"/>
-            <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPersonName"
-                    android:text=""
-                    android:ems="10"
-                    android:id="@+id/param10_txt"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/save_btn"/>

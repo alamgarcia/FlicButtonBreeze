@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flic</string>
+    <string name="app_name">Emergency Settings</string>
     <string name="action_settings">Settings</string>
     <string name="family_lbl_text">family</string>
     <string name="type_lbl_txt">type</string>
